@@ -19,5 +19,5 @@ class Vendor
       rev += item.price * quantity
     end
     rev
-  end
+  end  
 end
